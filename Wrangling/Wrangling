@@ -25,3 +25,21 @@ Data Cleaning Steps:
 - Grouped duplicates from visitor origin and country
 - Ran Output
 
+5. Arrival and Expenditures
+- Clean step
+- Removed null field
+- Changed Data role to country/region
+- Grouped invalid values with matching values from the data role
+- Filtered rows with invalid values for the data role
+- Changed t31 column to "Tourist arrival and expenditures"
+- Changed "Tourist arrival and expenditures" to Region
+- Changed F3 to Year
+- Changed Year data role to date
+- Excluded Series value in F4
+- Deleted F5 column
+- Deleted F9 column
+- Changed first column name to Expenditures
+- Changed F7 column name to Arrivals
+- Deleted F4
+- Sorted columns
+- Ran output
