@@ -1,6 +1,13 @@
-# Data Cleaning Steps #
+Data Cleaning Steps:
+
 1. Room Nights Sold Over Time in Nova Scotia
 - Added cleaning step
 - Removed Occupancy Rate (all values equaled 0, not helpful data)
 - Changed Month/Year data type from String to Date
 - Changed Region data role to Geographic (County)
+- Ran Output
+
+2. Community_Culture
+- Added cleaning step
+- Removed 'Link' column
+- Ran Output
