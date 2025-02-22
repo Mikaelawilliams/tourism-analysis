@@ -11,3 +11,12 @@ Data Cleaning Steps:
 - Added cleaning step
 - Removed 'Link' column
 - Ran Output
+
+3. Nova_Scotians_Engagement
+- Added cleaning step
+- Changed Year data type to Date
+- Changed Group Weighted % data type from Number (whole) to Number (decimal)
+- Changed Table column name to Question
+- Ran Output
+
+4. 
