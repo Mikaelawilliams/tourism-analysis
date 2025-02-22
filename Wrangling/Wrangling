@@ -19,4 +19,9 @@ Data Cleaning Steps:
 - Changed Table column name to Question
 - Ran Output
 
-4. 
+4. Tourism Nova Scotia Visitation
+- Clean step
+- Changed Month/Year data type from String to Date
+- Grouped duplicates from visitor origin and country
+- Ran Output
+
